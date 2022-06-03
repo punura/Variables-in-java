@@ -10,7 +10,6 @@ public class Main {
 		String name = "Tom";
 		
 		System.out.println("Hello "+name);
-		System.out.println("Number is "+x);
 	}
 
 }
